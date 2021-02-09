@@ -9,7 +9,7 @@ function getPass(){
     result = inputpass.value;
     if(result.length <= 9){
         
-        outputpass.innerHTML = "input must be greater than 10";
+        outputpass.innerHTML = "input must be greater than 12";
         
     }
     // else if(result.length < 10){
